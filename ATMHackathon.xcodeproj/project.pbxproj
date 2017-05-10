@@ -193,7 +193,7 @@
 				TargetAttributes = {
 					C55D67471EC3675100997062 = {
 						CreatedOnToolsVersion = 8.2;
-						DevelopmentTeam = 7SAZ66N8WR;
+						DevelopmentTeam = 8X3A457D49;
 						ProvisioningStyle = Automatic;
 					};
 					C55D675B1EC3675200997062 = {
@@ -415,10 +415,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 7SAZ66N8WR;
+				DEVELOPMENT_TEAM = 8X3A457D49;
 				INFOPLIST_FILE = ATMHackathon/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.sfranks3.ATMHackathon;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sfranks3.atmhackdistro;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -428,10 +428,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 7SAZ66N8WR;
+				DEVELOPMENT_TEAM = 8X3A457D49;
 				INFOPLIST_FILE = ATMHackathon/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.sfranks3.ATMHackathon;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sfranks3.atmhackdistro;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
